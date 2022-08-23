@@ -1,4 +1,4 @@
-name: CI=false
+name: QW
 
 on: [push, workflow_dispatch]
 
